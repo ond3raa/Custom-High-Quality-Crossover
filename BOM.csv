@@ -1,0 +1,10 @@
+Designator,Value,Quantity,Link
+L1,0.33mH,2,https://www.reproobchod.cz/dexon-vzduchova-civka-0-33mh-0-8mm/
+L2,0.47mH,2,https://www.reproobchod.cz/monacor-lsip-47-2-vzduchova-civka-0-47mh-0-85mm/
+C1,8.2uF,2,https://www.reproobchod.cz/kondenzator-monacor-mkpa-82-8-2uf-250v-dc-mkp/
+C2,6.8uF,2,https://www.reproobchod.cz/kondenzator-monacor-mkpa-68-6-8uf-250v-dc-mkp/
+R1,1 Ohm,2,https://www.reproobchod.cz/rezistor-keramicky-visaton-r-1ohm-10-w/
+R2,1.5 Ohm,2,https://www.reproobchod.cz/rezistor-keramicky-visaton-r-1-5ohm-10-w/
+R3,2.2 Ohm,2,https://www.reproobchod.cz/rezistor-keramicky-dratovy-tesla-tr271-2r2-10w/
+R4,3 Ohm,2,https://www.reproobchod.cz/rezistor-keramicky-dratovy-tesla-tr271-3r0-10w/
+JLCPCB,Custom,2,https://jlcpcb.com/

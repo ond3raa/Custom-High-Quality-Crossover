@@ -14,3 +14,18 @@ order crossover, and the sound was sharp and aggressive. I designed this 2nd-ord
 This project is a passive analog audio crossover. It uses only discrete components, including capacitors, inductors, and resistors for frequency filtering. There are no microcontrollers or integrated circuits involved, so no firmware is required for this project to operate.
 <img src="Assets/Wiring Diagram.png" width="800">
 BOM
+### Bill of Materials (BOM)
+
+| Part | Value | Quantity | Price (CZK) | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| Air coil L1 | 0.33mH | 2 | 260 | [Link](https://www.reproobchod.cz/dexon-vzduchova-civka-0-33mh-0-8mm/) |
+| Air coil L2 | 0.47mH | 2 | 338 | [Link](https://www.reproobchod.cz/monacor-lsip-47-2-vzduchova-civka-0-47mh-0-85mm/) |
+| Capacitor C1 | 8.2uF | 2 | 192 | [Link](https://www.reproobchod.cz/kondenzator-monacor-mkpa-82-8-2uf-250v-dc-mkp/) |
+| Capacitor C2 | 6.8uF | 2 | 190 | [Link](https://www.reproobchod.cz/kondenzator-monacor-mkpa-68-6-8uf-250v-dc-mkp/) |
+| Resistor R1 | 1 Ohm | 2 | 60 | [Link](https://www.reproobchod.cz/rezistor-keramicky-visaton-r-1ohm-10-w/) |
+| Resistor R2 | 1.5 Ohm | 2 | 60 | [Link](https://www.reproobchod.cz/rezistor-keramicky-visaton-r-1-5ohm-10-w/) |
+| Resistor R3 | 2.2 Ohm | 2 | 36 | [Link](https://www.reproobchod.cz/rezistor-keramicky-dratovy-tesla-tr271-2r2-10w/) |
+| Resistor R4 | 3 Ohm | 2 | 36 | [Link](https://www.reproobchod.cz/rezistor-keramicky-dratovy-tesla-tr271-3r0-10w/) |
+| Shipping | Reproobchod | 1 | 69 | - |
+| PCB | JLCPCB | 2 | ~90 | [Link](https://jlcpcb.com/) |
+| **Total to pay** | | | **1331 CZK** | **~$62.84 USD** |

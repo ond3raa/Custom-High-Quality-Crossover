@@ -18,6 +18,8 @@ BOM
 
 | Part | Value | Quantity | Price (CZK) | Link |
 | :--- | :--- | :--- | :--- | :--- |
+| Connecting cables | | 6 | 0 - I have them | - |
+| Mounting screws | M3 | 8 | 0 - I have them | - |
 | Air coil L1 | 0.33mH | 2 | 260 | [Link](https://www.reproobchod.cz/dexon-vzduchova-civka-0-33mh-0-8mm/) |
 | Air coil L2 | 0.47mH | 2 | 338 | [Link](https://www.reproobchod.cz/monacor-lsip-47-2-vzduchova-civka-0-47mh-0-85mm/) |
 | Capacitor C1 | 8.2uF | 2 | 192 | [Link](https://www.reproobchod.cz/kondenzator-monacor-mkpa-82-8-2uf-250v-dc-mkp/) |
@@ -26,11 +28,12 @@ BOM
 | Resistor R2 | 1.5 Ohm | 2 | 60 | [Link](https://www.reproobchod.cz/rezistor-keramicky-visaton-r-1-5ohm-10-w/) |
 | Resistor R3 | 2.2 Ohm | 2 | 36 | [Link](https://www.reproobchod.cz/rezistor-keramicky-dratovy-tesla-tr271-2r2-10w/) |
 | Resistor R4 | 3 Ohm | 2 | 36 | [Link](https://www.reproobchod.cz/rezistor-keramicky-dratovy-tesla-tr271-3r0-10w/) |
-| Shipping | Reproobchod | 1 | 69 | - |
+| Shipping | reproobchod.cz | 1 | 69 | - |
 | PCB | JLCPCB | 2 | ~90 | [Link](https://jlcpcb.com/) |
-| **Total to pay** | | | **1331 CZK** | **~$62.84 USD** |
+| **Total to pay** | | | **1331 CZK** | **~$64.03 USD** |
 
 ## Note:
+## The real value in dollars is here in the BOM. It is also in the blueprint project, but it differs due to different exchange rates
 The 3D component models used in the CAD assembly and STEP file are **representative placeholders**.
 
 I selected these models based on their physical dimensions (length and width) to verify component clearance and PCB seating. The actual high-quality audio components (inductors and capacitors) used for assembly are precisely specified in the **Bill of Materials**.

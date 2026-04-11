@@ -4,7 +4,7 @@ This is an audio crossover. Its function is to take an audio signal and split it
 # How to use
 The usage is quite simple: just assemble the PCB, solder the cables from the amplifier to the input, and connect the mid-bass speaker to the "woofer" output and the tweeter to the "tweeter" output.
 
-<img src="Assets/PCB1.png" width="490"> <img src="Assets/PCB2.png" width="490">
+<img src="Assets/PCB1.png" width="450"> <img src="Assets/PCB2.png" width="450">
 
 # Why I made this
 I created this project because I built speaker cabinets using car speakers and wired them the same way they were in the car. At frequencies around 2-10kHz, both speakers played simultaneously due to the missing 2nd-

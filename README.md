@@ -15,8 +15,8 @@ order crossover, and the sound was sharp and aggressive. I designed this 2nd-ord
 # Firmware & Software
 This project is a passive analog audio crossover. It uses only discrete components, including capacitors, inductors, and resistors for frequency filtering. There are no microcontrollers or integrated circuits involved, so no firmware is required for this project to operate.
 <img src="Assets/Wiring Diagram.png" width="800">
-BOM
-### Bill of Materials
+
+### BOM
 
 | Part | Value | Quantity | Price (CZK) | Link |
 | :--- | :--- | :--- | :--- | :--- |

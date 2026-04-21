@@ -32,7 +32,7 @@ This project is a passive analog audio crossover. It uses only discrete componen
 | Resistor R4 | 3 Ohm | 2 | 36 | [Link](https://www.reproobchod.cz/rezistor-keramicky-dratovy-tesla-tr271-3r0-10w/) |
 | Shipping | reproobchod.cz | 1 | 69 | - |
 | PCB | JLCPCB | 2 | ~90 | [Link](https://jlcpcb.com/) |
-| **Total to pay** | | | **1331 CZK** | **~$64.50 USD** |
+| **Total to pay** | | | **1331 CZK** | **~$64.21 USD** |
 
 ## Note:
 ## The real value in dollars is here in the BOM. It is also in the blueprint project, but it differs due to different exchange rates
